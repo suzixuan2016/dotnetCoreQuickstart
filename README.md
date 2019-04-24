@@ -1,6 +1,6 @@
 # webapi功能模板
 
-dotnet core2.2
+dotnet core2.1
 
 * autofac的DI功能集成，AOP功能集成，Module功能集成
 * 统一异常处理中间件  ExceptionHandleMiddleware
